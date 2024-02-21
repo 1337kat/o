@@ -1,0 +1,3 @@
+Execute in Lobby: loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/EXECUTE%20IN%20LOBBY'))() 
+
+Execute in Game: loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/Execute%20in%20Game.lua'))() 
