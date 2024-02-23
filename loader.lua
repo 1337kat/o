@@ -19,7 +19,7 @@ coroutine.resume(Thread7)
 
 --Thread8
 local Thread8 = coroutine.create(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/l/main/V%20neck.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/Longneck'))()
 end)
 coroutine.resume(Thread8)
 
