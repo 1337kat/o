@@ -15,7 +15,7 @@ end
 local function toggleHeadSize()
     toggle = not toggle -- switch the toggle state
     if toggle then -- if toggle is true
-        headSize = 8 -- set head size to 20
+        headSize = 5 -- set head size to 20
     else -- if toggle is false
         headSize = 13 -- set head size to 13
     end
