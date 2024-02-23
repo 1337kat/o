@@ -31,6 +31,6 @@ coroutine.resume(Thread9)
 
 --Thread10
 local Thread10 = coroutine.create(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/l/main/Armour%20Indicator.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/helmet%20indiciator.lua'))()
 end)
 coroutine.resume(Thread10)
