@@ -3,3 +3,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/EXECUT
 
 Execute in Game:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/amongusv1.lua'))() 
+
+Execute in Game:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/amongusv2.lua'))() 
