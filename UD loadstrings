@@ -9,3 +9,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/amongu
 
 Execute in Game:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/amongusv2.lua'))() 
+
+Speed:
+loadstring(game:HttpGet('https://raw.githubusercontent.com/patrick-goodbye/for-no-one/main/no%20one'))() 
