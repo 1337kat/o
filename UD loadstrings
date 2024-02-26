@@ -12,3 +12,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/amongu
 
 Speed:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/trident%20speed%20hack.lua'))() 
+
+PhantomForces
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/phantomforces.lua'))() 
