@@ -5,12 +5,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/o/main/keyhea
 end)
 coroutine.resume(Thread1)
 
---Thread4
-local Thread5 = coroutine.create(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/l/main/Fullbright.lua'))()
-end)
-coroutine.resume(Thread5)
-
 --Thread7
 local Thread7 = coroutine.create(function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1337kat/l/main/Crosshair.lua'))()
